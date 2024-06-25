@@ -1,0 +1,109 @@
+body{
+
+margin-left:270px;
+margin-right:269.5px;
+font-family: "Montserrat";
+}
+.div1{
+background-image: url("Vizag Photography.jfif");
+background-size: cover;
+background-repeat: no-repeat;
+background-origin: content-box;
+width: 720px;
+height: 400px;
+margin-left:auto;
+margin-right: auto;
+margin-top: 0;
+margin-bottom: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: blueviolet;
+border: 2px solid black;;
+}
+.visit-vizag{
+    color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 7px 5px 7px;
+    background-color:rgb(69, 120, 119);
+    text-shadow: 0 0 5px black;
+}
+.visit-vizag1{
+    color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 20px 5px 7px;
+    background-color:rgb(69, 120, 119);
+    text-shadow: 0 0 5px black;
+    text-align: center;   
+}
+.div2{
+    width: 720px;
+    height: 378px;
+    background: #f1faee;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: -23px;
+    margin-bottom: 0;
+    border:2px solid black;
+}
+.div24{
+    display: flex;
+    text-align: center;
+    margin-left: 70px;
+    
+}
+.div21,.div22,.div23{
+    margin-top:20px;
+    display: block;
+    text-align: center;
+    flex-direction: column;
+}
+.para,.para1{
+    color:#1D3557;
+    text-align:center;
+
+}
+#d21{
+   margin-right: 30px;
+   margin-left: -50px;
+}
+.top-3{
+    color:#1D3557;
+    padding-top:40px;
+    text-shadow: 0px 0px 5px whitesmoke;
+    text-align: center;
+}
+.img2{
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+}
+
+.div24{
+    display: flex;
+    justify-content: center;
+}
+.div3{
+    display: flex;
+    border:2px solid black;
+}
+.div31{
+    display: block;
+    text-align: center;
+    background-color: aliceblue;
+}
+.img3{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 300px;
+}
+#bhairava{
+    font-size: large;
+    
+    font-style: oblique;
+}
