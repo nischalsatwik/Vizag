@@ -89,6 +89,10 @@ border: 2px solid black;;
 .div3{
     display: flex;
     border:2px solid black;
+     width: 720px;
+height: 200px;
+margin-left:auto;
+    margin-right: auto;
 }
 .div31{
     display: block;
